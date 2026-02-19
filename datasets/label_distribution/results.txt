@@ -1,0 +1,34 @@
+Evaluating strategies for data_1.csv...
+EDA saved to data_1_analysis.png
+{'Strategy': 'none', 'F1-Score': 0.6449153727134924, 'Precision': 0.9846153846153847, 'Recall': 0.4839080459770114, 'Balanced Accuracy': 0.7419032873213318}
+{'Strategy': 'under', 'F1-Score': 0.1922096054156356, 'Precision': 0.11226389381673915, 'Recall': 0.7018390804597701, 'Balanced Accuracy': 0.8078883802889136}
+{'Strategy': 'over', 'F1-Score': 0.17728278115710938, 'Precision': 0.1016750484986069, 'Recall': 0.7018390804597701, 'Balanced Accuracy': 0.8041322668985605}
+{'Strategy': 'smote', 'F1-Score': 0.17492570759545517, 'Precision': 0.10025428441977527, 'Recall': 0.7018390804597701, 'Balanced Accuracy': 0.8029651405203918}
+{'Strategy': 'weights', 'F1-Score': 0.17470772574244936, 'Precision': 0.10004701666074364, 'Recall': 0.7018390804597701, 'Balanced Accuracy': 0.8031175020467884}
+
+
+Evaluating strategies for data_2.csv...
+EDA saved to data_2_analysis.png
+{'Strategy': 'none', 'F1-Score': 0.6647619047619047, 'Precision': 1.0, 'Recall': 0.5166666666666666, 'Balanced Accuracy': 0.7583333333333333}
+{'Strategy': 'under', 'F1-Score': 0.16215067422317767, 'Precision': 0.09505494505494505, 'Recall': 0.5833333333333333, 'Balanced Accuracy': 0.741770261404054}
+{'Strategy': 'over', 'F1-Score': 0.13536665427969777, 'Precision': 0.07812965365596944, 'Recall': 0.5833333333333333, 'Balanced Accuracy': 0.7316412859560067}
+{'Strategy': 'smote', 'F1-Score': 0.13634603382887137, 'Precision': 0.07853174603174604, 'Recall': 0.5833333333333333, 'Balanced Accuracy': 0.7331667184640354}
+{'Strategy': 'weights', 'F1-Score': 0.13447293447293446, 'Precision': 0.07772355095884509, 'Recall': 0.5833333333333333, 'Balanced Accuracy': 0.7306312372664803}
+
+
+Evaluating strategies for data_3.csv...
+EDA saved to data_3_analysis.png
+{'Strategy': 'none', 'F1-Score': 0.8577405948465902, 'Precision': 0.8605554574710675, 'Recall': 0.8553558156819026, 'Balanced Accuracy': 0.9196447456427201}
+{'Strategy': 'under', 'F1-Score': 0.7914925617504258, 'Precision': 0.6737914459032994, 'Recall': 0.9594946116685248, 'Balanced Accuracy': 0.9528029575253626}
+{'Strategy': 'over', 'F1-Score': 0.7895076717786352, 'Precision': 0.6708274346872021, 'Recall': 0.9594946116685248, 'Balanced Accuracy': 0.9524682917118816}
+{'Strategy': 'smote', 'F1-Score': 0.7904176893516827, 'Precision': 0.6721140125621529, 'Recall': 0.9594946116685248, 'Balanced Accuracy': 0.9526356713031493}
+{'Strategy': 'weights', 'F1-Score': 0.78955690332125, 'Precision': 0.6709410024009683, 'Recall': 0.9594946116685248, 'Balanced Accuracy': 0.9524681983428274}
+
+
+Evaluating strategies for data_4.csv...
+EDA saved to data_4_analysis.png
+{'Strategy': 'none', 'F1-Score': 0.16718609153050834, 'Precision': 0.9242431546261916, 'Recall': 0.09197948127906418, 'Balanced Accuracy': 0.5449842812242911}
+{'Strategy': 'under', 'F1-Score': 0.394711380585297, 'Precision': 0.2903978357174279, 'Recall': 0.6164305575530946, 'Balanced Accuracy': 0.6143983389548746}
+{'Strategy': 'over', 'F1-Score': 0.39487381655342757, 'Precision': 0.2910697750788051, 'Recall': 0.6139927609185483, 'Balanced Accuracy': 0.6146884785992512}
+{'Strategy': 'smote', 'F1-Score': 0.39566457099676067, 'Precision': 0.29142718778422355, 'Recall': 0.616442542787286, 'Balanced Accuracy': 0.6154106595664366}
+{'Strategy': 'weights', 'F1-Score': 0.3960693674433597, 'Precision': 0.29161044127208047, 'Recall': 0.6174193393738914, 'Balanced Accuracy': 0.6158361253467658}

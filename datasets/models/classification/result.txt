@@ -1,0 +1,30 @@
+Evaluating models for data_4.csv...
+EDA visual saved to data_4_eda.png
+{'filename': 'data_4.csv', 'Model': 'LOGISTIC', 'Accuracy': 0.991, 'Precision': 0.991977748290293, 'Recall': 0.99, 'F1_Score': 0.9909338081167766}
+{'filename': 'data_4.csv', 'Model': 'KNN', 'Accuracy': 0.9490000000000001, 'Precision': 0.9454078972899431, 'Recall': 0.954, 'F1_Score': 0.9493070982437576}
+{'filename': 'data_4.csv', 'Model': 'SVM', 'Accuracy': 0.984, 'Precision': 0.9918328811720022, 'Recall': 0.976, 'F1_Score': 0.9837443706885332}
+{'filename': 'data_4.csv', 'Model': 'TREE', 'Accuracy': 0.984, 'Precision': 0.9842706247547562, 'Recall': 0.984, 'F1_Score': 0.9840076042862218}
+
+
+Evaluating models for data_5.csv...
+EDA visual saved to data_5_eda.png
+{'filename': 'data_5.csv', 'Model': 'LOGISTIC', 'Accuracy': 0.8789999999999999, 'Precision': 0.8794436885865456, 'Recall': 0.8800000000000001, 'F1_Score': 0.8788650691770077}
+{'filename': 'data_5.csv', 'Model': 'KNN', 'Accuracy': 1.0, 'Precision': 1.0, 'Recall': 1.0, 'F1_Score': 1.0}
+{'filename': 'data_5.csv', 'Model': 'SVM', 'Accuracy': 0.998, 'Precision': 0.996039603960396, 'Recall': 1.0, 'F1_Score': 0.9980099502487562}
+{'filename': 'data_5.csv', 'Model': 'TREE', 'Accuracy': 0.994, 'Precision': 0.996039603960396, 'Recall': 0.992, 'F1_Score': 0.9939695462083522}
+
+
+Evaluating models for data_6.csv...
+EDA visual saved to data_6_eda.png
+{'filename': 'data_6.csv', 'Model': 'LOGISTIC', 'Accuracy': 0.44800000000000006, 'Precision': 0.449001503532222, 'Recall': 0.45600000000000007, 'F1_Score': 0.4522553247770233}
+{'filename': 'data_6.csv', 'Model': 'KNN', 'Accuracy': 0.8709999999999999, 'Precision': 0.8661464077888074, 'Recall': 0.8780000000000001, 'F1_Score': 0.8709292668960948}
+{'filename': 'data_6.csv', 'Model': 'SVM', 'Accuracy': 0.8809999999999999, 'Precision': 0.8829941883970083, 'Recall': 0.8779999999999999, 'F1_Score': 0.8803519082458333}
+{'filename': 'data_6.csv', 'Model': 'TREE', 'Accuracy': 0.829, 'Precision': 0.835575297306729, 'Recall': 0.8200000000000001, 'F1_Score': 0.8273236141855701}
+
+
+Evaluating models for data_7.csv...
+EDA visual saved to data_7_eda.png
+{'filename': 'data_7.csv', 'Model': 'LOGISTIC', 'Accuracy': 0.584, 'Precision': 0.11666666666666667, 'Recall': 0.01707317073170732, 'F1_Score': 0.02978723404255319}
+{'filename': 'data_7.csv', 'Model': 'KNN', 'Accuracy': 0.9490000000000001, 'Precision': 0.9273135059363969, 'Recall': 0.9514839847193652, 'F1_Score': 0.9388395836529991}
+{'filename': 'data_7.csv', 'Model': 'SVM', 'Accuracy': 0.8099999999999999, 'Precision': 0.6857832645226714, 'Recall': 0.9975903614457831, 'F1_Score': 0.8125613948230479}
+{'filename': 'data_7.csv', 'Model': 'TREE', 'Accuracy': 0.9949999999999999, 'Precision': 0.9952380952380953, 'Recall': 0.9927416985013224, 'F1_Score': 0.9939243431905085}

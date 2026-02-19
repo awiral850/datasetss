@@ -1,0 +1,8 @@
+Evaluating strategies for data_1.csv...
+{'Strategy': 'ordinal', 'R²': 0.938969370570921, 'MSE': 34183258.64655943, 'MAE': 5087.447326483208}
+{'Strategy': 'onehot', 'R²': 0.9387995974313116, 'MSE': 34279367.177092195, 'MAE': 5092.674336057606}
+
+
+Evaluating strategies for data_2.csv...
+{'Strategy': 'ordinal', 'R²': 0.1653721730209468, 'MSE': 932150640.055996, 'MAE': 24739.69443529909}
+{'Strategy': 'onehot', 'R²': 0.9471154341025884, 'MSE': 58845677.05304085, 'MAE': 6315.755283809241}

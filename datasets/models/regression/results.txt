@@ -1,0 +1,22 @@
+Evaluating models for data_1.csv...
+EDA visual saved to data_1_eda.png
+{'Model': 'LINEAR', 'R²': 0.9591024606747574, 'MSE': 2.2067300903343217}
+{'Model': 'KNN', 'R²': 0.9499879495121796, 'MSE': 2.6977372069345105}
+{'Model': 'SVM', 'R²': 0.9579299280512469, 'MSE': 2.269638078629509}
+{'Model': 'TREE', 'R²': 0.919529224569023, 'MSE': 4.345183338154277}
+
+
+Evaluating models for data_2.csv...
+EDA visual saved to data_2_eda.png
+{'Model': 'LINEAR', 'R²': 0.0018745238554311872, 'MSE': 13.008693877775878}
+{'Model': 'KNN', 'R²': 0.993289748879658, 'MSE': 0.08697313026564805}
+{'Model': 'SVM', 'R²': 0.14333900609792977, 'MSE': 11.164089887380714}
+{'Model': 'TREE', 'R²': 0.994174704969082, 'MSE': 0.07453833503460747}
+
+
+Evaluating models for data_3.csv...
+EDA visual saved to data_3_eda.png
+{'Model': 'LINEAR', 'R²': -0.017116084410307875, 'MSE': 55.21661594509072}
+{'Model': 'KNN', 'R²': 0.9203950548152241, 'MSE': 4.289395114526991}
+{'Model': 'SVM', 'R²': 0.918605353866138, 'MSE': 4.390855252522966}
+{'Model': 'TREE', 'R²': 0.8576180383522424, 'MSE': 7.623450158505792}
